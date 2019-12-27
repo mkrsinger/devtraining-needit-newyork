@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Create New">e6d71998078200109c34fa7f7c1ed061</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>auto</input_source>
+        <input_style>inline</input_style>
+        <input_type/>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Requested for</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-26 22:12:24</sys_created_on>
+        <sys_id>5de85998078200109c34fa7f7c1ed03a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Requested for</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_5de85998078200109c34fa7f7c1ed03a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-26 22:16:45</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=5de85998078200109c34fa7f7c1ed03a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a7216ce1db2cf3000ae3ac44d4961937</instance_id>
+        <instance_name>dev78160</instance_name>
+        <name>sys_sg_ui_parameter_5de85998078200109c34fa7f7c1ed03a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Create New">e6d71998078200109c34fa7f7c1ed061</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name/><input_source>auto</input_source><input_style>inline</input_style><input_type/><mandatory>false</mandatory><multi_select>false</multi_select><name>Requested for</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-26 22:12:24</sys_created_on><sys_id>5de85998078200109c34fa7f7c1ed03a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Requested for</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_ui_parameter_5de85998078200109c34fa7f7c1ed03a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-26 22:16:45</sys_updated_on><table_name/></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=5de85998078200109c34fa7f7c1ed03a"/></record_update>]]></payload>
+        <payload_hash>12612089</payload_hash>
+        <record_name>Requested for</record_name>
+        <reverted_from/>
+        <source>5a4549c2077100109c34fa7f7c1ed004</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-26 22:16:45</sys_created_on>
+        <sys_id>8f3a1dd8078200109c34fa7f7c1ed0f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f4448966e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-26 22:16:45</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>0b3a1dd8148200103e7249f0a40b07f3</update_guid>
+        <update_guid_history>0b3a1dd8148200103e7249f0a40b07f3:12612089,17391998e6820010a29e0c39b485a18e:1295628819</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-26 22:19:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>1c29a4bbb25b4a15810911f81281ec49</sys_id>
+        <sys_metadata>5de85998078200109c34fa7f7c1ed03a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested for</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_5de85998078200109c34fa7f7c1ed03a</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_5de85998078200109c34fa7f7c1ed03a">8f3a1dd8078200109c34fa7f7c1ed0f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-26 22:19:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
